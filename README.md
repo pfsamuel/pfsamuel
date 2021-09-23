@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Flask microframework, Javascript & Jquery**
 
-💬 Ask me about **Python, Python-Libs, Html, CSS, Bootstrap**
+💬 Ask me about **Python, Python-Libs, Html, CSS, Bootstrap, Tailwind, SASS**
 
 📫 How to reach me **fsamuelpacheco@gmail.com**
 
