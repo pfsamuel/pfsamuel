@@ -5,14 +5,7 @@
   <br>
 </div>
 
-<div align="left"> 
-<a href="https://github.com/Samuel0102">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel0102&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0102&layout=compact&langs_count=7&theme=vue-dark"/>
-</div >
-
   <h3>Technologies & Tools :computer:</h3>
-
   <div align="left" width="125">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -27,8 +20,19 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>
   
+  <br>
+  <h3>Learning :book:</h3>
+  <div align="left">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  </div>
+
+  <br>
    <h3>Contact :telephone_receiver:</h3>
     <div>
       <a href="https://www.linkedin.com/in/samuel-pacheco-ferreira-025a54216/">
@@ -41,3 +45,15 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
        </a>
   </div>
+
+
+<div align="left"> 
+ <br>
+ <br>
+<a href="https://github.com/Samuel0102">
+ <img height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=Samuel0102&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0102&layout=compact&langs_count=7&theme=vue-dark"/>
+
+</div >
+
+
