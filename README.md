@@ -28,19 +28,6 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   </div>
 
-   <h3>Contact :telephone_receiver:</h3>
-    <div>
-      <a href="https://www.linkedin.com/in/samuel-pacheco-ferreira-025a54216/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <a href="https://www.instagram.com/i_am_elmusa/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      </a>
-      <a href="mailto:fsamuelpacheco@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-       </a>
-  </div>
-
 
 <div align="left"> 
  <br>
@@ -51,4 +38,16 @@
 
 </div >
 
+   <h3>Contact :telephone_receiver:</h3>
+   <div>
+      <a href="https://www.linkedin.com/in/samuel-pacheco-ferreira-025a54216/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://www.instagram.com/i_am_elmusa/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      </a>
+      <a href="mailto:fsamuelpacheco@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+       </a>
+  </div>
 
