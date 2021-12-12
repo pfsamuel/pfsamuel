@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Hi!✌️_n_I'm_Samuel_Pacheco (1).png">
+  <img src="Hi!✌️_n_I'm_Samuel_Pacheco__n_A_fullstack_Developer.png">
   <br>
   <br>
 </div>
