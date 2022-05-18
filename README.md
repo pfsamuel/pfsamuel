@@ -31,10 +31,7 @@
 <div align="left"> 
  <br>
 
-<a href="https://github.com/pfsamuel">
- <img height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=pfsamuel&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfsamuel&layout=compact&langs_count=7&theme=vue-dark"/>
-
+![pfsamuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfsamuel&show_icons=true&theme=nord)
 </div >
 
    <h3>Contact :telephone_receiver:</h3>
