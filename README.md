@@ -24,17 +24,16 @@
   <div align="left">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </div>
 
 
 <div align="left"> 
  <br>
 
-<a href="https://github.com/Samuel0102">
- <img height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=Samuel0102&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0102&layout=compact&langs_count=7&theme=vue-dark"/>
+<a href="https://github.com/pfsamuel">
+ <img height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=pfsamuel&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfsamuel&layout=compact&langs_count=7&theme=vue-dark"/>
 
 </div >
 
@@ -46,8 +45,8 @@
       <a href="https://www.instagram.com/i_am_elmusa/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
-      <a href="mailto:fsamuelpacheco@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      <a href="mailto:Samuel.Ferreira@philips.com">
+        	<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
        </a>
   </div>
 
